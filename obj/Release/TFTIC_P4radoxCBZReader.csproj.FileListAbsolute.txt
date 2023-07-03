@@ -1,0 +1,11 @@
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\bin\Release\TFTIC_P4radoxCBZReader.exe.config
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\bin\Release\TFTIC_P4radoxCBZReader.exe
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\bin\Release\TFTIC_P4radoxCBZReader.pdb
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\obj\Release\TFTIC_P4radoxCBZReader.csproj.AssemblyReference.cache
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\obj\Release\TFTIC_P4radoxCBZReader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\obj\Release\TFTIC_P4radoxCBZReader.MainWindow.resources
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\obj\Release\TFTIC_P4radoxCBZReader.Properties.Resources.resources
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\obj\Release\TFTIC_P4radoxCBZReader.csproj.GenerateResource.cache
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\obj\Release\TFTIC_P4radoxCBZReader.csproj.CoreCompileInputs.cache
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\obj\Release\TFTIC_P4radoxCBZReader.exe
+C:\Users\Cyril\source\repos\TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader\obj\Release\TFTIC_P4radoxCBZReader.pdb

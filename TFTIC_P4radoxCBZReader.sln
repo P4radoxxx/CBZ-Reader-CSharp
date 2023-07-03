@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFTIC_P4radoxCBZReader", "TFTIC_P4radoxCBZReader\TFTIC_P4radoxCBZReader.csproj", "{6EA3F0DB-EE39-4825-B788-6AC389AA0170}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EA3F0DB-EE39-4825-B788-6AC389AA0170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA3F0DB-EE39-4825-B788-6AC389AA0170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA3F0DB-EE39-4825-B788-6AC389AA0170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA3F0DB-EE39-4825-B788-6AC389AA0170}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ECBDCF4-8C1E-40FB-98E2-CA4C43A5051B}
+	EndGlobalSection
+EndGlobal
